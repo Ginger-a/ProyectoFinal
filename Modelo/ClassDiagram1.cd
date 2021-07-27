@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Modelo.Empresa.Almacen">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAhAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Empresa\Almacen.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modelo.Empresa.Configuracion">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAAAAAAACBAAAAAAAAAAAAAIAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Empresa\Configuracion.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modelo.Empresa.Marca">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAQAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Empresa\Marca.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modelo.Empresa.Movimiento">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEIAAAAAAAARAAAAAAAAgAAAQAAAAAAAAIgAAg=</HashCode>
+      <FileName>Empresa\Movimiento.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modelo.Empresa.Pedido">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAARAAAAAAIAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Empresa\Pedido.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.172" />
+  </Class>
+  <Class Name="Modelo.Empresa.Producto">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADAAABABAAAAAAAABAAABAAAgAAAAACACAgAAAAAAAA=</HashCode>
+      <FileName>Empresa\Producto.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
